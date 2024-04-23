@@ -36,7 +36,7 @@ ndarray = { version = "0.15", optional = true }
 num-traits = { version = "0.2", optional = true }
 openssl = { version = "0.10", optional = true }
 oracle = { version = "0.5", optional = true }
-polars = { version = "0.39", optional = true, features = [
+polars = { version = "0.33", optional = true, features = [
   "dtype-u8",
   "dtype-u16",
 ] }
